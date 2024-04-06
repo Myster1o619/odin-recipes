@@ -1,3 +1,5 @@
+/* GLOBAL */
+
 * {
     font-family: Verdana, Arial, Tahoma, sans-serif;
 }
@@ -6,6 +8,10 @@ img {
     height: auto;
     width: 310px;
 }
+
+/* GLOBAL */
+
+/* index.html - GENERAL */
 
 a {
     font-weight: bold;
@@ -28,3 +34,13 @@ a:visited {
 a:active {
     text-decoration: none;
 }
+
+/* index.html - GENERAL */
+
+/* Recipes - GENERAL */
+
+.recipe-description {
+    background-color: rgb(169, 169, 230);
+}
+
+/* Recipes - GENERAL */
