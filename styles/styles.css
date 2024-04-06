@@ -43,4 +43,9 @@ a:active {
     background-color: rgb(169, 169, 230);
 }
 
+li.recipe.recipe-ingredients:nth-child(odd) {
+    background: pink;
+    font-weight: bold;
+}
+
 /* Recipes - GENERAL */
