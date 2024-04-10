@@ -52,6 +52,13 @@ a:active {
     background-color: rgb(169, 169, 230);
 }
 
+li.recipe.recipe-ingredients {
+    display: block;
+    margin-bottom: 1%;
+    width: 49%;
+    float: left;
+}
+
 li.recipe.recipe-ingredients:nth-child(odd) {
     background: pink;
     font-weight: bold;
